@@ -7,7 +7,7 @@ Adding more tabs in this PROJECT
 * PREDICTIONS
 * ALERTS
 * LIVE MONITORING
-* CRUD (Only Admin can do)
+* CRUD (Only Admin can do) 
  
 
  
