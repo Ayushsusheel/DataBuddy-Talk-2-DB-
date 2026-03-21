@@ -6,7 +6,7 @@ Adding more tabs in this PROJECT
 * CHAT UI
 * PREDICTIONS
 * ALERTS
-* LIVE MONITORING
+* LIVE MONITORING 
 * CRUD (Only Admin can do) 
  
  
