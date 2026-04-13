@@ -19,7 +19,7 @@ st.markdown(
 """
 )
 
-
+ 
 # Sidebar: per-user context (different in each browser -> different user)
 st.sidebar.header("User context")
 user_name = st.sidebar.text_input("User name", value="user_a")
